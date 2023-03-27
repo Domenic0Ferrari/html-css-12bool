@@ -3,3 +3,11 @@
     background-color: #006CFA;
     border: 1px solid white;
 }
+
+.content{
+    color: white;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
